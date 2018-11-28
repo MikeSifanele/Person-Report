@@ -1,0 +1,10 @@
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Projects\ProjectX\The Hive\The Hive\The Hive\bin\Debug\The Hive.exe.config
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Projects\ProjectX\The Hive\The Hive\The Hive\bin\Debug\The Hive.exe
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Projects\ProjectX\The Hive\The Hive\The Hive\bin\Debug\The Hive.pdb
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Projects\ProjectX\The Hive\The Hive\The Hive\obj\Debug\The_Hive.Form1.resources
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Projects\ProjectX\The Hive\The Hive\The Hive\obj\Debug\The_Hive.Properties.Resources.resources
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Projects\ProjectX\The Hive\The Hive\The Hive\obj\Debug\The Hive.csproj.GenerateResource.cache
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Projects\ProjectX\The Hive\The Hive\The Hive\obj\Debug\The Hive.csproj.CoreCompileInputs.cache
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Projects\ProjectX\The Hive\The Hive\The Hive\obj\Debug\The Hive.exe
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Projects\ProjectX\The Hive\The Hive\The Hive\obj\Debug\The Hive.pdb
+C:\Users\Mike.Sifanele\Documents\Visual Studio 2017\Projects\ProjectX\The Hive\The Hive\The Hive\obj\Debug\The Hive.csproj.ResolveComReference.cache
